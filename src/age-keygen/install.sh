@@ -13,6 +13,6 @@ $nanolayer_location \
     install \
     devcontainer-feature \
     "ghcr.io/devcontainers-extra/features/gh-release:1.0.26" \
-    --option repo='filosottile/age' --option binaryNames='age-keygen' --option version="$VERSION"
+    --option repo='filosottile/age' --option binaryNames='age-keygen' --option version="$VERSION" --option assetRegex='.*(.tar.gz)$'
 
 echo 'Done!'
