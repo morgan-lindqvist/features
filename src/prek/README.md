@@ -1,4 +1,3 @@
-
 # prek (via Github Releases)
 
 prek is a faster, dependency-free alternative to pre-commit, re-engineered in Rust.
