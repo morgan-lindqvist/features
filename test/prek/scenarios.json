@@ -9,7 +9,7 @@
         "image": "mcr.microsoft.com/devcontainers/base:debian",
         "features": {
             "prek": {
-                "version": "0.3.7"
+                "version": "0.3.6"
             }
         }
     }
